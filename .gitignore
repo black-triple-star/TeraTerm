@@ -10,6 +10,7 @@
 *.lnk
 *.pyc
 *.ldb
+.~lock.*
 __pycache__
 $HISTORY
 .HISTORY
