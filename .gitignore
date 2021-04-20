@@ -6,6 +6,8 @@
 
 \#自動ログイン_raspberrypi4.cmd
 
+*.str-
+
 ~$*
 *.lnk
 *.pyc
