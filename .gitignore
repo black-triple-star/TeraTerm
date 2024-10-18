@@ -8,14 +8,14 @@
 
 *.str-
 
+.$*
 ~$*
 *.lnk
 *.pyc
 *.ldb
-.~lock.*
 __pycache__
+.~lock.*
 $HISTORY
-.HISTORY
 AutoBackUp
 BackUp
 .svn
@@ -23,6 +23,7 @@ BackUp
 *.swo
 *.swp
 *.swn
+*.bkp
 
 
 
